@@ -1,0 +1,3 @@
+C:\Users\79065\Desktop\C++ progs\5\x64\Debug\5.exe
+C:\Users\79065\Desktop\C++ progs\ukaz_maxsum\5\x64\Debug\5.exe
+C:\Users\79065\Desktop\C++ progs\ukaz_maxsum\maxsum_ukaz\x64\Debug\5.exe
